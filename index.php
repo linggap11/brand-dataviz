@@ -242,7 +242,7 @@
 
 								<div class="table-responsive">
 									<table class="table text-nowrap">
-										<thead>
+										<thead> 
 											<tr>
 												<th style="width: 50px">Due</th>
 												<th style="width: 300px;">User</th>
