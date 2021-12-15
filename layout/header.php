@@ -21,18 +21,12 @@
 <script src="assets/js/plugins/pickers/daterangepicker.js"></script>
 <script src="assets/js/plugins/ui/moment/moment.min.js"></script>
 <script src="assets/js/app.js"></script>
+<script src="assets/js/input.js"></script>
 <script src="assets/js/demo_pages/dashboard.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/streamgraph.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/sparklines.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/lines.js"></script>	
-<script src="assets/js/demo_charts/pages/dashboard/light/areas.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/donuts.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/bars.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/progress.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/heatmaps.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/pies.js"></script>
-<script src="assets/js/demo_charts/pages/dashboard/light/bullets.js"></script>
-<!-- /theme JS files -->
+<!-- <script src="assets/js/plugins/uploaders/fileinput/fileinput.min.js"></script> -->
+<script src="assets/js/demo_pages/uploader_bootstrap.js"></script>
+<!-- /input JS files -->
+
 
 <style>
     .chart-icon {
